@@ -1,2 +1,5 @@
 # alive-sales-api
 API de vendas ficticia
+
+
+uvicorn app.main:app --reload --host 0.0.0.0 --port 8080
